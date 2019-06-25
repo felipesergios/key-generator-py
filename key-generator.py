@@ -42,7 +42,7 @@ else:
 #----------------------------
 
 Texto = ('''Sua chave foi gerada com sucesso segue abaixo \n {} Código Único Pré Encriptado 
- Atenciosamente,Felipe Sergio.'''.format(B))
+ Atenciosamente,Equipe KGP.'''.format(B))
 message = Texto
 
 # setup the parameters of the message
